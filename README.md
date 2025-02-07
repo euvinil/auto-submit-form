@@ -37,35 +37,31 @@ Este projeto tem como objetivo automatizar o preenchimento de um formulário onl
 - **Python 3.x**: [Instale o Python](https://www.python.org/downloads/)
 - Instale as dependências necessárias com o comando:
 
-  ```bash
-  pip install selenium webdriver-manager
+pip install selenium webdriver-manager
+
 Passos para Execução
 Clone este repositório:
 
-bash
-Copiar
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 Navegue até o diretório do projeto:
 
-bash
-Copiar
 cd nome-do-repositorio
 Execute o script:
 
-bash
-Copiar
+
 python main.py
 O script solicitará que você insira os seguintes dados:
 
-Nome
+Nome 
 E-mail
-Telefone
+Telefone 
 O Selenium abrirá o navegador, preencherá o formulário e enviará automaticamente.
 
-Demonstração
+Demonstração   
 O script acessa a página de inscrição para um minicurso de Python. Durante a execução, o navegador será aberto e o formulário será preenchido e enviado automaticamente.
 
-Como Contribuir
+Como Contribuir  
 Sinta-se à vontade para contribuir com melhorias! Se você tiver sugestões ou encontrar bugs, abra uma issue ou envie um pull request.
 
 Exemplos de contribuições:
